@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\John\source\repos\Project5\Game.cpp(204,23): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\John\source\repos\Project5\Game.cpp(206,23): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\John\source\repos\Project5\Game.cpp(208,23): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\John\source\repos\Project5\Game.cpp(210,23): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Project5.vcxproj -> C:\Users\John\source\repos\Project5\x64\Debug\Project5.exe
